@@ -68,5 +68,5 @@ Scripts e projetos diversos que não se encaixam nas categorias acima. 🛠️
 
 Você pode me encontrar em:
 
-- **LinkedIn**: [Eduarda Justino](https://www.linkedin.com/in/meduardajustino)
+- **LinkedIn**: [Maria Eduarda Justino](https://www.linkedin.com/in/meduardajustino)
 - **E-mail**: madujustinostudies@gmail.com
