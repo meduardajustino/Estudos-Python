@@ -31,9 +31,6 @@ Extração de dados da web usando Pyautogui e Selenium. 🌐
 ### **Análise de Dados**: 
 Projetos mais focados na área de Data Science, com visualizações, estatísticas e machine learning. 📈
 
-### **Outros**: 
-Scripts e projetos diversos que não se encaixam nas categorias acima. 🛠️
-
 ---
 
 ## 🚀 **Objetivos**
