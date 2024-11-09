@@ -1,4 +1,4 @@
-# 🐍 Estudos de Python
+# 🐍👩🏼‍💻 Estudos de Python
 
 Bem-vindo(a) ao meu repositório de estudos de Python! 🚀
 
@@ -14,6 +14,7 @@ Este repositório contém scripts que desenvolvi ao longo de diversos cursos e m
  ┣ 📂 Automação
  ┣ 📂 Web Scraping
  ┣ 📂 Análise de Dados
+ ┣ 📂 Mineração de Dados
 ```
 
 ### **Fundamentos**: 
@@ -31,6 +32,8 @@ Extração de dados da web usando Pyautogui e Selenium. 🌐
 ### **Análise de Dados**: 
 Projetos mais focados na área de Data Science, com visualizações, estatísticas e machine learning. 📈
 
+### **Mineração de Dados**:
+Limpeza e preparação de dados para análise, identificar padrões e tendências nos dados. 📑
 ---
 
 ## 🚀 **Objetivos**
