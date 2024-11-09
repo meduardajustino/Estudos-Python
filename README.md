@@ -34,6 +34,7 @@ Projetos mais focados na área de Data Science, com visualizações, estatístic
 
 ### **Mineração de Dados**:
 Limpeza e preparação de dados para análise, identificar padrões e tendências nos dados. 📑
+
 ---
 
 ## 🚀 **Objetivos**
